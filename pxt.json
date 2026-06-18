@@ -1,0 +1,12 @@
+{
+  "name": "mega-ui-system",
+  "version": "1.0.0",
+  "description": "Advanced UI system (menus, inventory, Minecraft-style GUI)",
+  "dependencies": {
+    "device": "*",
+    "arcade-text": "*"
+  },
+  "files": [
+    "main.ts"
+  ]
+}
